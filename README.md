@@ -93,6 +93,7 @@ A restaurant can use this system to:
 * Add user authentication
 
 ---
+<img width="880" height="709" alt="image" src="https://github.com/user-attachments/assets/d7983729-63e3-4865-89c2-88344d3b87cb" />
 
 
 ## 👨‍💻 Author

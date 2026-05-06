@@ -101,5 +101,3 @@ A restaurant can use this system to:
 
 ---
 
-
-If you want, I can also tailor this README to match your exact table schema or even add diagrams (ERD) for a more professional GitHub presentation.
